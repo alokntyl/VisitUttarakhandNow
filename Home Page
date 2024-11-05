@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uttarakhand Tourism</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="hero">
+        <h1>Explore the Beauty of Uttarakhand</h1>
+        <p>Discover adventures, nature, and spirituality in the Land of the Gods</p>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Destinations Section -->
+        <section id="destinations">
+            <h2>Top Destinations</h2>
+            <div class="destination-grid">
+                <div class="destination">
+                    <h3>Nainital</h3>
+                    <p>A scenic lake town surrounded by mountains.</p>
+                </div>
+                <div class="destination">
+                    <h3>Rishikesh</h3>
+                    <p>Yoga capital and a spiritual hub on the Ganges.</p>
+                </div>
+                <div class="destination">
+                    <h3>Jim Corbett National Park</h3>
+                    <p>India's oldest national park, home to tigers and elephants.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Things to Do Section -->
+        <section id="activities">
+            <h2>Things to Do</h2>
+            <ul>
+                <li><strong>Adventure:</strong> Trekking, rafting, and paragliding.</li>
+                <li><strong>Pilgrimage:</strong> Visit Kedarnath, Badrinath, and Haridwar.</li>
+                <li><strong>Nature & Wildlife:</strong> Explore Valley of Flowers and wildlife parks.</li>
+            </ul>
+        </section>
+
+        <!-- Travel Tips Section -->
+        <section id="tips">
+            <h2>Travel Tips</h2>
+            <p>Best times to visit, packing lists, and safety advice for Uttarakhand.</p>
+        </section>
+    </main>
+
+    <!-- Contact Section -->
+    <footer id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions? Reach out to us for more travel insights.</p>
+        <form>
+            <input type="text" placeholder="Your Name" required>
+            <input type="email" placeholder="Your Email" required>
+            <textarea placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </footer>
+</body>
+</html>
